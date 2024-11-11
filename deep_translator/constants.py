@@ -548,7 +548,7 @@ MY_MEMORY_LANGUAGES_TO_CODES = {
 }
 
 DEEPL_LANGUAGE_TO_CODE = {
-    "Arabic": "ar",
+    "arabic": "ar",
     "bulgarian": "bg",
     "czech": "cs",
     "danish": "da",
