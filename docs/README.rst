@@ -1,5 +1,5 @@
 ##################
-deep-translator
+deep-translator 
 ##################
 
 .. image:: ../assets/icon.jpg
